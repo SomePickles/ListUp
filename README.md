@@ -5,7 +5,7 @@ by [Kirsty Nguegang](https://www.linkedin.com/in/kirsty-alexandra-nguegang-959aa
 [ListUp](https://kirstyalexandranguegang.cikeys.com) provides a platform for those who want to save a buck by putting buyers in charge through a reverse auction, whereby buyers drive prices down and sellers place decreasing bids. Setting up a ListUp account is easy, and creating a post is even easier. As a buyer, all you need is a picture of the item you want, description, price you're willing to pay for it, and duration of the auction and that's it! Sellers respond to posts by bidding, and the lowest bidder wins the auction. 
 
 ### Requirements
-
+---
 - Android Studio v.4.1
 - Windows
   - Microsoft Windows 7/8/10 (32-bit or 64-bit)
@@ -19,11 +19,11 @@ by [Kirsty Nguegang](https://www.linkedin.com/in/kirsty-alexandra-nguegang-959aa
   - 1280 x 800 minimum screen resolution
   
 ### Installation
-
+---
 We recommend that you clone this repository and host it on your local machine. 
 
 ### Acknowledgements
-
+---
 - Capstone advisor: [Dr. Jason Isaacs](http://isaacs.cs.csuci.edu/index.html)
 - California State [University Channel Islands](https://www.csuci.edu)
 
