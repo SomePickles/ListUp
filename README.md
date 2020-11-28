@@ -25,5 +25,5 @@ We recommend that you clone this repository and host it on your local machine.
 ### Acknowledgements
 ---
 - Capstone advisor: [Dr. Jason Isaacs](http://isaacs.cs.csuci.edu/index.html)
-- California State [University Channel Islands](https://www.csuci.edu)
+- [California State University Channel Islands](https://www.csuci.edu)
 
